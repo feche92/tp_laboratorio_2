@@ -1,0 +1,6 @@
+C:\Users\bocasosmivida\Desktop\Programacion y Laboratorio ll\TP-03\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\bocasosmivida\Desktop\Programacion y Laboratorio ll\TP-03\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\bocasosmivida\Desktop\Programacion y Laboratorio ll\TP-03\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\bocasosmivida\Desktop\Programacion y Laboratorio ll\TP-03\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\bocasosmivida\Desktop\Programacion y Laboratorio ll\TP-03\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\bocasosmivida\Desktop\Programacion y Laboratorio ll\TP-03\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
